@@ -12,3 +12,6 @@ Dump and scan active process.<br>
 Anti-Memory Scanner (Cheat Engine etc.)<br>
 AES256 Encryption.<br>
 Live user control with database.
+
+# Credits
+All codes applied by Seukaiwokeo
